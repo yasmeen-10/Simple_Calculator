@@ -1,0 +1,29 @@
+body {
+    background-color: aqua;
+}
+
+.a {
+    background-color: blue;
+    width: 100%;
+}
+
+.b {
+    background-color: blue;
+    width: 100%;
+}
+
+.c {
+    background-color: blue;
+    width: 100%;
+}
+
+.d {
+    background-color: blue;
+    width: 100%;
+}
+
+input[type="text"] {
+    background-color: white;
+    border: solid black 2px;
+    width: 100%;
+}
